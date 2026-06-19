@@ -1,0 +1,3 @@
+platform,H_statistic,p_value,n_observations,significant_p005
+amd,194.5403,0.0,1000,True
+arm,194.7322,0.0,1000,True
